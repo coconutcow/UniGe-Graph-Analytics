@@ -33,11 +33,7 @@ There is no need for you to download the dataset.
 Implementing the code gives us interesting reults.
 The red dots represent the airports, and the black lines represent the routes between two airports.
 
+### The first output looks slightly crude, and difficult to interpret. 
 ![Graph Image 1](https://drive.google.com/open?id=1ib2wRU0gyToEzRuV_TMpbQOkfh0ZXCI_)
-### Doesn't it look beautiful ?
+### Voila! Doesn't it look beautiful ? Utilised some functions provided by the NetworkX and MatplotLib libraries.
 ![Graph Image 2](https://drive.google.com/open?id=1WDBf-NS1oqqkNxDWgMvlDCYpr9f4nYMc)
-![Graph Image 3](https://imgur.com/xN8igvm)
-![Graph Image 4](https://imgur.com/vDcJNgG)
-![Graph Image 5](https://imgur.com/SCEvEsm)
-![Graph Image 6](https://imgur.com/F5zJDqa)
-![Graph Image 7](https://imgur.com/WGsYrmr)
