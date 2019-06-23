@@ -45,7 +45,7 @@ The red dots represent the airports, and the black lines represent the routes be
 
 #### Now let's visualize what would the impact be across the globe if two prominent airplane services such as Lufthansa and American Airlines get affected by any change in dynamics such as a server outage, a terror attack, a cyber attack, or even something as trivial as the company deciding to stop operations in another country - the extent is alarming, and magnanimous, to say the least.
 
-<br>![Graph Image 2](https://lh3.googleusercontent.com/x0ExyXKAOYDF21n9GfAIoGNho9DxrTImSwwC0tinUUQ5q8ZROGdKJQFDlF2cZbnPOXualiOo1Jlk9d9ltEX7Th327lLLkKSfQyDFSar3p0NBwTwcUkqbIy0s_CGpmLXoGJ83-wakgBXcvVmqi2XJuApxEdX4fUqBuJIA-r7PIkwGLGwou6O7rpOBMluZ1aZQ2y3aWVnMHUx5Z8KEy0munwi2_mjSNjA096HorFA1wDHs7RnjWZjVbWypYyWy3yLI3guPOkO6sqxbIZApeC3KKWqzatbimFutn8Dae0t-9y0KEDsi4JIlNZVnGQdYrusYgiszUWaTiIZnOMdesqtfcELtGWbJ18exynoMt-kjaJxh9adzfH_-QPRfHAIRwcK1M5w718MZZ7fs7_2On3QmiV_YTWbKpXGuQR9h0kYPLbiXUdUB42Fh7_mtm8XZPHfkf6M4U9csojY8qRTVp3bAKFFbFuqozUxtit2HJU4d5QoOV63BnlFqNp_HThsZ_kbaLKefCQQLGNNAEyspaXzl6RXEZtcGnwT9bv4tlonbC5F4xvHDiUnPe580ws4kKHiOg5Sc90iMCNqJ40VpWDCj3SkRld3Nx2eOT0Pm5i4-R-JZZotrNAGpMAUlhZV2MAy0-bUEsr9_Qwm3wtgUxCD9zKs_swj2lQ=w1018-h745-no)
+<br>![alt text](https://github.com/coconutcow/UniGe-Graph-Analytics/blob/master/ImageSources/Image1.png "Logo Title Text 1")
 
 ##### In the above graph, the following changes have been made:
 * All airports have been colored based on their region such as Europe, Asia, America, etc.
