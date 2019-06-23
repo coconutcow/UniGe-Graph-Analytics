@@ -36,9 +36,46 @@ The red dots represent the airports, and the black lines represent the routes be
 ### Part One
 #### We initially try and understand the specifics of what happens when networks lose nodes or edges. The effects are understood with the below two graphs
 
-<br>Below is a fully connected graph of 20 nodes
-![Graph Image 2](https://drive.google.com/file/d/19fNXf_zeYoP7jh5GL5AX7kKXW97eRixp/view?usp=sharing)
+#### Below is a fully connected graph of 20 nodes
+<br>![Graph Image 1](https://drive.google.com/file/d/19fNXf_zeYoP7jh5GL5AX7kKXW97eRixp/view?usp=sharing)
+##### Before the attack
+/***
+<table class="tg">
+  <tr>
+    <th class="tg-yw4l"><b>Diameter of Network</b></th>
+    <th class="tg-yw4l">1</b></th>
+  </tr>
+  <tr>
+    <td class="tg-yw4l"><b>Degree Centrality of Node 0</b></td>
+    <td class="tg-yw4l">1</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l"><b>Clustering Coefficient of Node 0</td>
+    <td class="tg-yw4l">1</td>
+  </tr>
+</table>
 
+#### What happens when we drop some edges and nodes?
+<br>![Graph Image 2](https://drive.google.com/file/d/19fNXf_zeYoP7jh5GL5AX7kKXW97eRixp/view?usp=sharing)
+##### After the attack
+/***
+<table class="tg">
+  <tr>
+    <th class="tg-yw4l"><b>Diameter of Network</b></th>
+    <th class="tg-yw4l">2</b></th>
+  </tr>
+  <tr>
+    <td class="tg-yw4l"><b>Degree Centrality of Node 0</b></td>
+    <td class="tg-yw4l">0.43</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l"><b>Clustering Coefficient of Node 0</td>
+    <td class="tg-yw4l">0.93</td>
+  </tr>
+</table>
+
+
+***/
 ### Part Two
 ### How would dropping nodes affect our communication between countries, consequently the people living in those countries ? The visualized results tend to show us how important it is to remain connected, and how different would the world look like losing communication points.
 
