@@ -30,7 +30,7 @@ There is no need for you to download the dataset.
 
 ## Wanderlust or Wander-lost
 
-Implementing the code gives us interesting reults.
+Implementing the code gives us interesting results.
 The red dots represent the airports, and the black lines represent the routes between two airports.
 
 ### Part One
