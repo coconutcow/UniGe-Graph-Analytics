@@ -37,7 +37,7 @@ The red dots represent the airports, and the black lines represent the routes be
 #### We initially try and understand the specifics of what happens when networks lose nodes or edges. The effects are understood with the below two graphs
 
 #### Below is a fully connected graph of 20 nodes
-<br>![Graph Image 1](https://drive.google.com/file/d/19fNXf_zeYoP7jh5GL5AX7kKXW97eRixp/view?usp=sharing)
+<br>![Graph Image 1](https://imgur.com/dHLCeZQ)
 ##### Before the attack
 
 <table class="tg" >
@@ -56,7 +56,7 @@ The red dots represent the airports, and the black lines represent the routes be
 </table>
 
 #### What happens when we drop some edges and nodes?
-<br>![Graph Image 2](https://drive.google.com/file/d/19fNXf_zeYoP7jh5GL5AX7kKXW97eRixp/view?usp=sharing)
+<br>![Graph Image 2](https://imgur.com/gM46iKH)
 ##### After the attack
 <table class="tg">
   <tr>
@@ -76,8 +76,5 @@ The red dots represent the airports, and the black lines represent the routes be
 ### Part Two
 #### How would dropping nodes affect our communication between countries, consequently the people living in those countries ? The visualized results tend to show us how important it is to remain connected, and how different would the world look like losing communication points.
 
-![Graph Image 3](https://imgur.com/xN8igvm)
-![Graph Image 4](https://imgur.com/vDcJNgG)
-![Graph Image 5](https://imgur.com/SCEvEsm)
-![Graph Image 6](https://imgur.com/F5zJDqa)
-![Graph Image 7](https://imgur.com/WGsYrmr)
+<br>![Graph Image 3](https://imgur.com/NuF8Gee)
+<br>![Graph Image 4](https://imgur.com/kSFRZcG)
