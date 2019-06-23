@@ -26,7 +26,10 @@ Python, compiled using Jupyter Notebook
 RyanAir, Lufthansa, American Airlines, Qatar ?
 These are all popular names that are discussed from time to time, and form an integral part of this globalized world.
 Airports, Airlines, and Routs, can all play important roles in deciding which country do we go to next. This is an initiative to plot the airports, airlines, and their consequent routes on a global map. The dataset has been keenly observed, and for my purpose has been tailored using python to satisfy the intent. Additionally, the modifications have been made in order to provide the best form of representation of the idea behind this implementation.
-There is no need for you to download the dataset. 
+There is no need for you to download the dataset.
+
+* Nodes: Airports
+* Edges: Airline route
 
 ## This world is our stage
 
