@@ -38,7 +38,7 @@ The red dots represent the airports, and the black lines represent the routes be
 
 #### Below is a fully connected graph of 20 nodes
 <br>![Graph Image 1](https://imgur.com/dHLCeZQ)
-##### Before the attack
+##### Graph Metrics: Before the attack
 
 <table class="tg" >
   <tr>
@@ -57,7 +57,7 @@ The red dots represent the airports, and the black lines represent the routes be
 
 #### What happens when we drop some edges and nodes?
 <br>![Graph Image 2](https://imgur.com/gM46iKH)
-##### After the attack
+##### Graph Metrics: After the attack
 <table class="tg">
   <tr>
     <th class="tg-yw4l" align="left"><b>Diameter of Network</b></th>
