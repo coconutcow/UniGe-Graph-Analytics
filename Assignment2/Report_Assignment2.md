@@ -39,11 +39,11 @@ The red dots represent the airports, and the black lines represent the routes be
 #### Below is a fully connected graph of 20 nodes
 <br>![Graph Image 1](https://drive.google.com/file/d/19fNXf_zeYoP7jh5GL5AX7kKXW97eRixp/view?usp=sharing)
 ##### Before the attack
-/***
-<table class="tg">
+
+<table class="tg" >
   <tr>
-    <th class="tg-yw4l"><b>Diameter of Network</b></th>
-    <th class="tg-yw4l">1</b></th>
+    <th class="tg-yw4l" align="left"><b>Diameter of Network</b></th>
+    <th class="tg-yw4l" >1</b></th>
   </tr>
   <tr>
     <td class="tg-yw4l"><b>Degree Centrality of Node 0</b></td>
@@ -58,10 +58,9 @@ The red dots represent the airports, and the black lines represent the routes be
 #### What happens when we drop some edges and nodes?
 <br>![Graph Image 2](https://drive.google.com/file/d/19fNXf_zeYoP7jh5GL5AX7kKXW97eRixp/view?usp=sharing)
 ##### After the attack
-/***
 <table class="tg">
   <tr>
-    <th class="tg-yw4l"><b>Diameter of Network</b></th>
+    <th class="tg-yw4l" align="left"><b>Diameter of Network</b></th>
     <th class="tg-yw4l">2</b></th>
   </tr>
   <tr>
@@ -74,10 +73,8 @@ The red dots represent the airports, and the black lines represent the routes be
   </tr>
 </table>
 
-
-***/
 ### Part Two
-### How would dropping nodes affect our communication between countries, consequently the people living in those countries ? The visualized results tend to show us how important it is to remain connected, and how different would the world look like losing communication points.
+#### How would dropping nodes affect our communication between countries, consequently the people living in those countries ? The visualized results tend to show us how important it is to remain connected, and how different would the world look like losing communication points.
 
 ![Graph Image 3](https://imgur.com/xN8igvm)
 ![Graph Image 4](https://imgur.com/vDcJNgG)
