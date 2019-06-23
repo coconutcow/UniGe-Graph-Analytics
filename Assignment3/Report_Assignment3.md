@@ -31,7 +31,7 @@ There is no need for you to download the dataset.
 ## What can we perceive ?
 ### Infections is not just a biological term. In essence, we are trying to convey that how can a network be impacted by change in one area of a network.
 
-#### With the below outputs we can observe the true essence of the meaning of infections, particularly observing the change in node colors, edges, and increase in sizes of nodes, by specifying conditions - which in the real world could be drops in communication lines, cyber attacks, terror attacks, energy outages, etc.
+With the below outputs we can observe the true essence of the meaning of infections, particularly observing the change in node colors, edges, and increase in sizes of nodes, by specifying conditions - which in the real world could be drops in communication lines, cyber attacks, terror attacks, energy outages, etc.
 
 Implementing the code gives us interesting results.
 The red dots represent the airports, and the black lines represent the routes between two airports.
