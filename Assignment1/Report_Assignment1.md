@@ -39,22 +39,3 @@ The red dots represent the airports, and the black lines represent the routes be
 ![Graph Image 5](https://imgur.com/SCEvEsm)
 ![Graph Image 6](https://imgur.com/F5zJDqa)
 ![Graph Image 7](https://imgur.com/WGsYrmr)
-
-
-Thanks to this script you will be able to reproduce a Social Contagion on your Graph. First of all, the Graph will be printed:
-
-![Graph Image 1](https://i.imgur.com/72EXAqG.png)
-
-You can modify colors, nodes, scales and so on. The png images will be numbered from 1 (the first) to the last one and they represent the days of the contagion. For eample the second one look like this:
-
-![Graph Image 2](https://i.imgur.com/iEAn7r7.jpg)
-
-Where red nodes represent the infected ones. At the end, if the contagion parameters are good enough, you will get this:
-
-![Graph Image 2](https://i.imgur.com/xf5u7Hv.png)
-
-Every node is red, this means that you infected the whole graph. Sometimes the graph is so big that you cannot visualize all the nodes and maybe there are blue nodes hidden behind the reds. So you can check on terminal because at the end the list of remaining nodes to infect will be printed and if it is empty, it means that you did a good work.
-
-## Authors
-
-* **Riccardo Basso** - *Università degli studi di Genova*
