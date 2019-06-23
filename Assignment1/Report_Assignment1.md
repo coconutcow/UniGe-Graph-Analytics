@@ -33,9 +33,9 @@ There is no need for you to download the dataset.
 Implementing the code gives us interesting reults.
 The red dots represent the airports, and the black lines represent the routes between two airports.
 
-![Graph Image 1](https://imgur.com/QUII3h9)
+![Graph Image 1](https://drive.google.com/open?id=1ib2wRU0gyToEzRuV_TMpbQOkfh0ZXCI_)
 ### Doesn't it look beautiful ?
-![Graph Image 2](https://imgur.com/1MJWA9M)
+![Graph Image 2](https://drive.google.com/open?id=1WDBf-NS1oqqkNxDWgMvlDCYpr9f4nYMc)
 ![Graph Image 3](https://imgur.com/xN8igvm)
 ![Graph Image 4](https://imgur.com/vDcJNgG)
 ![Graph Image 5](https://imgur.com/SCEvEsm)
