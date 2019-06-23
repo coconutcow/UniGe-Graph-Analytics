@@ -17,7 +17,7 @@ Python, compiled using Jupyter Notebook
 * Urllib.request
 
 #### Data Source:
-[Named Link](https://openflights.org/data.html "OpenFlights")
+[OpenFlights](https://openflights.org/data.html "OpenFlights")
 
 <br>I have used a library named 'urllib.request' in order to extract the file straight from the url thus making this project light, quick, and more efficient to execute.
 
