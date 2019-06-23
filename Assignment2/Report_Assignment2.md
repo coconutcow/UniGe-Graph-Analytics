@@ -21,7 +21,7 @@ Python, compiled using Jupyter Notebook
 
 <br>I have used a library named 'urllib.request' in order to extract the file straight from the url thus making this project light, quick, and more efficient to execute.
 
-### The Dataset
+## The Dataset
 
 RyanAir, Lufthansa, American Airlines, Qatar ?
 These are all popular names that are discussed from time to time, and form an integral part of this globalized world.
@@ -33,10 +33,14 @@ There is no need for you to download the dataset.
 Implementing the code gives us interesting reults.
 The red dots represent the airports, and the black lines represent the routes between two airports.
 
-### Communication routes look robust at this stage
-![Graph Image 2](https://imgur.com/1MJWA9M)
+### Part One
+#### We initially try and understand the specifics of what happens when networks lose nodes or edges. The effects are understood with the below two graphs
 
-### But what would it look like if we lost, say, communication with about 6000 of them. How well connected would we continue to be ?
+<br>Below is a fully connected graph of 20 nodes
+![Graph Image 2](https://drive.google.com/file/d/19fNXf_zeYoP7jh5GL5AX7kKXW97eRixp/view?usp=sharing)
+
+### Part Two
+### How would dropping nodes affect our communication between countries, consequently the people living in those countries ? The visualized results tend to show us how important it is to remain connected, and how different would the world look like losing communication points.
 
 ![Graph Image 3](https://imgur.com/xN8igvm)
 ![Graph Image 4](https://imgur.com/vDcJNgG)
