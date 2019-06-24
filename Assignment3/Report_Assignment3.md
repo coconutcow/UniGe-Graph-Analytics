@@ -41,11 +41,11 @@ The red dots represent the airports, and the black lines represent the routes be
 
 
 #### Our graph in it's initial form
-<br>![alt text](https://github.com/coconutcow/UniGe-Graph-Analytics/blob/master/ImageSources/Image2.png "Graph One")
+<br>![alt text](https://github.com/coconutcow/UniGe-Graph-Analytics/blob/master/ImageSources/Image4.png "Graph One")
 
 #### Now let's visualize what would the impact be across the globe if two prominent airplane services such as Lufthansa and American Airlines get affected by any change in dynamics such as a server outage, a terror attack, a cyber attack, or even something as trivial as the company deciding to stop operations in another country - the extent is alarming, and magnanimous, to say the least.
 
-<br>![alt text](https://github.com/coconutcow/UniGe-Graph-Analytics/blob/master/ImageSources/Image8.png "Graph Two")
+<br>![alt text](https://github.com/coconutcow/UniGe-Graph-Analytics/blob/master/ImageSources/Image3.png "Graph Two")
 
 ##### In the above graph, the following changes have been made:
 * All airports have been colored based on their region such as Europe, Asia, America, etc.
