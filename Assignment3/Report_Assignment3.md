@@ -43,12 +43,13 @@ The red dots represent the airports, and the black lines represent the routes be
 #### Our graph in it's initial form
 <br>![alt text](https://github.com/coconutcow/UniGe-Graph-Analytics/blob/master/ImageSources/Image2.png "Graph One")
 
-#### Now let's visualize what would the impact be across the globe if two prominent airplane services such as Lufthansa and American Airlines get affected by any change in dynamics such as a server outage, a terror attack, a cyber attack, or even something as trivial as the company deciding to stop operations in another country - the extent is alarming, and magnanimous, to say the least.
 
-<br>![alt text](https://github.com/coconutcow/UniGe-Graph-Analytics/blob/master/ImageSources/Image8.png "Graph Two")
-
-##### In the above graph, the following changes have been made:
+##### What can graphs help us interpret ? We now perform some quick experiemnts in order to visualize and understand our graph with more depth. The following changes are being been made to the graph above:
 * All airports have been colored based on their region such as Europe, Asia, America, etc.
 * All airports have been resized based on their centrality. Higher the centrality, larger is the node size - thus highlighting their importance in this graph.
 * All routes of Lufthansa Airlines and American Airlines have been highlighted with thicker lines, and alternative shades to the rest to highlight how impactful can the routes across the world be in case something goes wrong with these specific airline carriers.
+
+<br>![alt text](https://github.com/coconutcow/UniGe-Graph-Analytics/blob/master/ImageSources/Image8.png "Graph Two")
+
+#### With the above changes, let's unravel what the graph is able to inform us. What would the impact be across the globe if two prominent airplane services such as Lufthansa and American Airlines get affected ? Any change in dynamics such as a server outage, a terror attack, a cyber attack, or even something as trivial as the airline deciding to stop operations in another country, can cause significant impact. The extent is alarming, and magnanimous, to say the least. Graphs have immense potential in helping us understand how closely looped, and connected, our world is today. We are governed by some basic, and underlying, principles of Graphs, and if understood well, we can help mitigate many catastrophic, and dangerous outcomes. 
 
