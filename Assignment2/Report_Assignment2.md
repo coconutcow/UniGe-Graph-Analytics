@@ -60,7 +60,7 @@ The red dots represent the airports, and the black lines represent the routes be
 </table>
 
 #### What happens when we drop some edges and nodes?
-<br>![alt text](https://github.com/coconutcow/UniGe-Graph-Analytics/blob/master/ImageSources/Image4.png "Graph One")
+<br>![alt text](https://github.com/coconutcow/UniGe-Graph-Analytics/blob/master/ImageSources/Image3.png "Graph Two")
 
 ##### Graph Metrics: After the attack
 <table class="tg">
