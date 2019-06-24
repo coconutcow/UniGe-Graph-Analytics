@@ -38,6 +38,6 @@ The red dots represent the airports, and the black lines represent the routes be
 
 ### The first output looks slightly crude, and difficult to interpret. 
 ![alt text](https://github.com/coconutcow/UniGe-Graph-Analytics/blob/master/ImageSources/Image1.png "Graph One")
-### Voila! Doesn't it look beautiful ? I have utilised some functions provided by the NetworkX and MatplotLib libraries.
+### Voila! Doesn't it look beautiful ? I have utilised some functions provided by the NetworkX and MatplotLib libraries. We have now reproduced all airports that exist globally, and their consequent airline routes. Incidently, the outcome also looks like the map of the planet earth - thus encompassing us with the idea that most of the globe does remain connected, but there is, yet, room for development.
 ![alt text](https://github.com/coconutcow/UniGe-Graph-Analytics/blob/master/ImageSources/Image2.png "Graph Two")
 
